@@ -22,3 +22,4 @@ The dataset used in this project contains information about police stops, includ
 
 ## Conclusion
 The analysis provides valuable insights into how driver age relates to arrest rates, which can inform policy decisions and targeted interventions for traffic safety.
+
